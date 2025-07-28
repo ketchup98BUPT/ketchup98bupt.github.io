@@ -3,11 +3,11 @@
 
 ### About me
 
-吴玥朋（Yuepeng Wu）
+吴玥朋(Yuepeng Wu)
 
-**2020-2025**  Beijing University of Posts and Telecommunications,  **Ph.D. in Electronic Science and Technology**
+**2020-2025**&nbsp;&nbsp;&nbsp;Beijing University of Posts and Telecommunications,&nbsp;&nbsp;**Ph.D. in Electronic Science and Technology**
 
-**2016-2020**  Beijing University of Posts and Telecommunications,  **B.Sc. in Applied Physics**
+**2016-2020**&nbsp;&nbsp;&nbsp;Beijing University of Posts and Telecommunications,&nbsp;&nbsp;**B.Sc. in Applied Physics**
 
 ### Research Interests
 
